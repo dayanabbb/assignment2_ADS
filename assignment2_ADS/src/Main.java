@@ -55,7 +55,7 @@ public class Main {
 
         list.add("Nursultan");
         list.add("Askar");
-        list.add("Nurgul");
+        list.add("Dayana");
 
         System.out.println("List after adding 3 elements: " + list);
 
@@ -74,7 +74,7 @@ public class Main {
 
         list.add("Nursultan");
         list.add("Askar");
-        list.add("Nurgul");
+        list.add("Dayana");
         System.out.println("List before sort method: " + list);
 
         list.sort();
